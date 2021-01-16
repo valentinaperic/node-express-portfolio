@@ -1,0 +1,49 @@
+{
+    "projects": [
+      {
+        "id": "0",
+        "project_name": "Employee Directory",
+        "description": "The Public API Requests project is a project that showcases how to use APIs to pull and manipulate data using vanilla javascript",
+        "technologies": ["Vanilla JavaScript", "HTML/CSS"],
+        "live_link": "https://www.google.com",
+        "github_link": "https://github.com/valentinaperic/employee-directory",
+        "image_urls": ["/static/images/employee-directory.png", "/static/images/phrase-game.png"]
+      },
+      {
+        "id": "1",
+        "project_name": "Phrase Game",
+        "description": "The OOP Game Show App project is a project that showcases object oriented skills in JavaScript!",
+        "technologies": ["Vanilla JavaScript", "HTML/CSS"],
+        "live_link": "https://www.google.com",
+        "github_link": "https://github.com/valentinaperic/phrase-guess-game",
+        "image_urls": ["static/images/phrase-game.png"]
+      },
+      {
+        "id": "2",
+        "project_name": "Full Stack Conf Registration",
+        "description": "The Full Stack Conf Registration project is a project that explores the use of only vanilla javascript (ES6). It is a registration page that handles all user interactions by manipulating the DOM with javascript.",
+        "technologies": ["Vanilla JavaScript", "HTML/CSS"],
+        "live_link": "www.google.com",
+        "github_link": "https://github.com/valentinaperic/full-stack-conf-registration",
+        "image_urls": ["static/images/phrase-game.png", "static/images/employee-directory.png"]
+      },
+      {
+        "id": "3",
+        "project_name": "Phrase Game",
+        "description": "The OOP Game Show App project is a project that showcases object oriented skills in JavaScript!",
+        "technologies": ["Vanilla JavaScript", "HTML/CSS"],
+        "live_link": "www.google.com",
+        "github_link": "https://github.com/valentinaperic/phrase-guess-game",
+        "image_urls": ["static/images/phrase-game.png"]
+      },
+      {
+        "id": "4",
+        "project_name": "List Pagination",
+        "description": "The List Pagination project is a project that explores the use of only vanilla javascript (ES6). It is a page that displays students and their info based on the current page number selected.",
+        "technologies": ["Vanilla JavaScript", "HTML/CSS"],
+        "live_link": "www.google.com",
+        "github_link": "https://github.com/valentinaperic/list-pagination",
+        "image_urls": ["static/images/phrase-game.png"]
+      }
+    ]
+  }
