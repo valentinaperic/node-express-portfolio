@@ -41,14 +41,11 @@ app.use((req, res, next) => {
 //error middleware 
 app.use((err, req, res, next) => {
     res.locals.error = err;
-    res.status(err.status);
+    const status = err.status || 500;
+    res.status(status);
     res.render('error');
   });
   
-
 app.listen(3000, () => {
     console.log('The application is running on localhost:3000!')
 });
-
-
-
